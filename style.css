@@ -50,6 +50,7 @@ body {
     align-items: center;
     justify-content: center;
     width: 50%;
+    z-index: -1;
 }
 
 .instagram-phone video {
