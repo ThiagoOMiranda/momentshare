@@ -31,7 +31,7 @@ Projeto proposto no Bootcamp: HTML Web Developer da plataforma ***Digital Innova
           <td><img src="./image/tela02.jpg" width="100%"/></td>
       </tr>
       <tr>
-      	<td colspan="2" style="text-align:center;"><i>Imagens 01 e 02: Projeto finalizado</i>.</td>
+      	<td colspan="2" style="text-align:center"><i>Imagens 01 e 02: Projeto finalizado</i>.</td>
       </tr>
   </table>
 
@@ -48,8 +48,9 @@ Projeto proposto no Bootcamp: HTML Web Developer da plataforma ***Digital Innova
     	<td><img src="./image/celular01.jpg" width="100%"/></td>
         <td><img src="./image/celular02.jpg" width="100%"/></td>
     </tr>
-    <tr><td colspan="2" style=text-align:center;><i>Imagens 03 e 04: Smartphone mockup.</i></td></tr>
+    <tr><td colspan="2" style="text-align:center"><i>Imagens 03 e 04: Smartphone mockup.</i></td></tr>
 </table>
+
 
 O mockup de smartphone foi modelado e animado em 3D no blender e renderizado em vídeo para ser utilizado em loop contínuo inserido na página.
 
