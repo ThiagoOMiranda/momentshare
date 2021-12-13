@@ -76,7 +76,7 @@ body {
     background-color: var(--white);
     width: 100%;
     min-width: 25rem;
-    padding: 1.3rem 0;
+    padding: 1.8rem 0;
     border: 1px solid rgba(var(--border-color), 0.3);
 }
 
@@ -89,12 +89,16 @@ body {
     justify-content: center;
 }
 
+.group a {
+    margin-bottom: 1rem;
+}
+
 .instagram-logo {
-    font-family: "fontspring";
+    /* font-family: "fontspring";
     font-style: italic;
     font-size: 2.7rem;
-    color: var(--black);
-    margin-bottom: 1rem;
+    color: var(--black); */
+    width: 200px;
 }
 
 .profile-photo {
